@@ -1,0 +1,18 @@
+.env
+
+PGUSER="postgres"
+PGHOST="localhost"
+PGPASSWORD="xxxx"
+PGDATABASE="futscript"
+PGPORT=xxxx
+
+SERVER= "http://localhost:"
+PORT= 3000
+
+JWT_SECRETKEY = "(/$#)={JL}Aw-2!"
+TIME_EXPIRE_TOKEN = 600
+
+DOMAIN_URL_APP= ""
+
+NODE_ENV= "development"
+
